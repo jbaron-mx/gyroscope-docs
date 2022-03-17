@@ -1,0 +1,11 @@
+---
+description: Gyro es indefinidamente escalable manteniendo un sistema robusto.
+---
+
+# ¿Qué tan escalable es Gyro?
+
+Gyroscope es potencialmente e indefinidamente escalable. Cualquiera puede convertir $1 en valor de activos a una nueva moneda estable de Gyro. El mecanismo de Gyroscope no está limitado por la escalabilidad de ningún otro sistema, ya que la reserva está diseñada para evolucionar a medida que evoluciona el espacio DeFi. Esto se compara, por ejemplo, con monedas estables como Dai, que sólo pueden escalar con el tamaño del mercado de apalancamiento al alza. Gyroscope es tan escalable como otros diseños algorítmicos, excepto que también tiene 'economía sólida'. Con activos en reserva altamente líquidos, es tan escalable como USDC.
+
+Al inicio, la reserva de Gyroscope consistirá mayormente de una canasta de otras monedas estables. Esto es especialmente importante al inicio cuando la escala y uso de el sistema comienza en pequeño. Naturalmente, conforme Gyroscope crezca, podría poner a prueba la escalabilidad de otras monedas estables en la canasta, como Dai. Esto no es un problema para Gyroscope, sin embargo, conforme el sistema cambie el portafolio de reserva hacia activos más escalables como ETH. Esto es una habilidad única de mecanismos de moneda estable como Gyroscope, que incluyen un mecanismo de mercado primario diseñado para mantener propiedades estables, que aunque menos frágiles, incluso si el valor de la reserva cae por debajo del %100. A grande escala, los fundamentos del sistema son también más fuertes, que hace la coordinación en la paridad mas estable incluso con activos volátiles en reserva como ETH.
+
+A través de todo el proceso de escalabilidad, Gyroscope está diseñados para mantener el sistema lo más fuerte posible. Mientras que el nivel de garantías en reserva puede fluctuar a largo plazo con gran cantidad de ETH en garantía, el sistema pone todo los recursos a mantener una reserva saludable. Por ejemplo, cada $1 que alguien paga por una nueva moneda estable de Gyro se destina completamente a la reserva, a diferencia de monedas estables algorítmicas que desvían este valor a los bolsillos de los participantes. En su lugar, los participantes de Gyroscope tienen los incentivos alineados con la salud a largo plazo de la reserva.
