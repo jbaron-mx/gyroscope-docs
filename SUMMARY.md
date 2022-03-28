@@ -23,4 +23,5 @@
 
 ## Gobernanza
 
-* [Primitivas de la gobernanza](gobernanza/primitivas-de-la-gobernanza.md)
+* [Principios de gobernanza](gobernanza/principios-de-gobernanza/README.md)
+  * [Aprobación Optimista](gobernanza/principios-de-gobernanza/aprobacion-optimista.md)

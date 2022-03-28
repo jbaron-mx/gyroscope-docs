@@ -6,7 +6,7 @@ description: Documentación del protocolo Gyroscope
 
 Esta documentación describe el diseño teórico de los mecanismos del protocolo Gyroscope formulado por FTL Labs mediante la investigación y el desarrollo académico. Gyro DAO es responsable del lanzamiento de Gyroscope y de la toma de decisiones sobre los mecanismos a incorporar al diseño final.
 
-Ante cualquier información incompleta u obsoleta, por favor enviar una solicitud de cambio al repositorio gyroscope-docs.
+Ante cualquier información incompleta u obsoleta, por favor enviar una solicitud de cambio al repositorio [gyroscope-docs](https://github.com/jbaron-mx/gyroscope-docs).
 
 ## El Protocolo Gyroscope
 
