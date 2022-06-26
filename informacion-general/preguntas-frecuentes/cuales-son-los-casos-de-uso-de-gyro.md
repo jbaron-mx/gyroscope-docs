@@ -8,7 +8,7 @@ description: Ejemplario de casos de uso de la infraestructura de Gyroscope
 
 La liquidez concentrada en los S-AMMs, posibles por el diseño P-AMM de Gyroscope, hacen una liquidez excepcional de la moneda estable de Gyro en el ecosistema. Por esta razón, un caso natural de uso de Gyroscope es una central de intercambios de activos. Al igual que USDT predomina actualmente, muchas operaciones con bajo deslizamiento son posibles al conectarse a través de la moneda estable Gyro en S-AMMs dentro del ecosistema de transacciones de Balancer v2, donde el primer S-AMMs será desarrollado. El desplegado temprano de liquidez en los S-AMMs durante el lanzamiento puede ser impulsado con minería de liquidez.
 
-![](https://2063019688-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MU527HCtxlYaQoNazhF%2Fuploads%2F4pUejKivkcxjlbQiDbux%2FAMMs%20Graphic%20Rounded%20Edges.png?alt=media\&token=5316b320-5fbf-4dbf-9486-9ae990be5f91)
+![](<../../.gitbook/assets/SAMM and Reserve Pools Graphic.png>)
 
 ## Garantía más eficiente para DeFi
 

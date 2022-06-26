@@ -16,7 +16,7 @@ La estructura de el PAMM (es decir, las curvas de vinculación que determina los
 
 Abajo de muestra la curva de redención estilizada del PAMM para diferentes coeficientes de reservas contra el ejemplo de una pool 50-50 de Uniswap.
 
-![](https://2063019688-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MU527HCtxlYaQoNazhF%2Fuploads%2FeofiR01M1UQCNq6GEThy%2FGraph%207%20v2.png?alt=media\&token=bb3ca2ec-1639-4e9b-9d96-992581368072)
+![](<../../../.gitbook/assets/Stylized PAMM Redemption Curve v3.png>)
 
 ### Ejemplos y explicaciones detalladas
 

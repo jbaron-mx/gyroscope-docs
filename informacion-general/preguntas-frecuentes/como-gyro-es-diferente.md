@@ -32,7 +32,7 @@ Gyroscope no es como esas monedas estables algorítmicas. En su lugar, cada uno 
 
 Para mayor discusión de como Gyroscope se compara con monedas estables algorítmicas, incluyendo resistencia a estampidas bancarias, lea nuestro [artículo aquí](https://medium.com/gyroscope-protocol/gyroscope-is-different-part-2-algorithmic-stablecoins-78c53c005e89).
 
-![](https://2063019688-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MU527HCtxlYaQoNazhF%2Fuploads%2F4YxZTpCs8HRhqdavB5i9%2FConfidence%20Crisis%20Flow%20Chart.png?alt=media\&token=b00edd60-c9da-492b-bd0f-b385bddbdad6)
+![](<../../.gitbook/assets/Algorithmic Stablecoins Confidence Crisis Flow Chart.png>)
 
 ## Monedas estables custodiadas y basadas en apalancamiento
 

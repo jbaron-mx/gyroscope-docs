@@ -17,6 +17,6 @@ La terminología de “mercado primario y secundario" se toma prestado de las fi
 
 Cada SAMM concentran la liquidez en rangos establecidos por el PAMM para los pares de reserva activo - moneda estable de Gyroscope. Esto garantiza pares altamente líquidos para entrar y salir de las monedas estables de Gyroscope. Los SAMMs son también independiente de otros: si el activo en par colapsa en un SAMM, entonces los pools restantes del SAMM pueden seguir funcionando, caso contrario con un típico pool de un AMM hoy en día. Los SAMMs formarán parte central de una red de pools interconectados que permitirán el enrutamiento eficiente de transacciones. Algunas bóvedas de reservas de Gyroscope desplegarán activos en pools que magnifiquen esta red, mientras otros AMM pools se conectarán con pares de activos en los SAMMs.
 
-![El SAMM y pool de reserva de Gyroscope forman un DEX donde la liquidez es robusta ante colapsos del pool.](https://2063019688-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MU527HCtxlYaQoNazhF%2Fuploads%2F4pUejKivkcxjlbQiDbux%2FAMMs%20Graphic%20Rounded%20Edges.png?alt=media\&token=5316b320-5fbf-4dbf-9486-9ae990be5f91)
+![](<../../../.gitbook/assets/SAMM and Reserve Pools Graphic.png>)
 
 Una característica de este diseño es que induce un mecanismo de coordinación de la paridad, lo que fomenta alta liquidez alrededor de la paridad, mientras que reduce ataques especulativos y los efectos de estampidas bancarias con un corto-circuito en caso de ataques coordinados.

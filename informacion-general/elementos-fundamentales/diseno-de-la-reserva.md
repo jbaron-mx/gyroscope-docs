@@ -22,4 +22,4 @@ Si alguna bóveda fuera a colapsar (si un triángulo es removido de la figura po
 
 Abajo se muestra una representación gráfica de la configuración de reservas de Gyroscope.
 
-![Gyroscope estratifica riesgos de componibilidad. El colapso de una bóveda individual (triángulos) no permea al resto.](https://2063019688-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MU527HCtxlYaQoNazhF%2Fuploads%2FVsLqI7lD76gKFaQYklY6%2FVaults%20Graphic%20v2.png?alt=media\&token=4795d72e-d265-464b-b6f5-1d7dbe4c1e56)
+![](<../../.gitbook/assets/Vaults Graphic v2 (1).png>)

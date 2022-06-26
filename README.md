@@ -45,7 +45,7 @@ Dependiendo de si el 100% de la oferta de monedas estables está respaldada por 
 Mientras la reserva será inicialmente y casi exclusivamente compuesta de otras monedas estables, esto podría cambiar a largo plazo. Un shock importante a la reserva sólo podría ocurrir si hay problemas incluso más grandes en otros sistemas DeFi, de los cuales Gyroscope podría posibilitar el resultado menos perjudicial.
 {% endhint %}
 
-![La reserva de Gyroscope está diseñada para segregar diferentes riesgos en diferentes bóvedas (triángulos).](https://2063019688-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MU527HCtxlYaQoNazhF%2Fuploads%2FVsLqI7lD76gKFaQYklY6%2FVaults%20Graphic%20v2.png?alt=media\&token=4795d72e-d265-464b-b6f5-1d7dbe4c1e56)
+![](<.gitbook/assets/Vaults Graphic v2 (1).png>)
 
 **Si hay un shock grave a la reserva, entonces la segunda línea de defensa, la cotización algorítmica de Gyroscope toma el control**. Si la unidad de moneda estable se encuentra con déficit de garantías, la curva de vinculación del mercado de redención provee cotizaciones a la baja como corto-circuito para mantener al sistema sostenible. Este mecanismo de estabilidad debería ser raramente necesario, pero existe cómo plan de contingencia y utiliza el diseño multi-mercado de Gyroscope que concentra la liquidez entre los precios de cotización de las curvas de vinculación para la emisión/redención de la moneda estable.
 
@@ -63,4 +63,4 @@ Usuarios forman creencias del valor fundamental de la moneda estable. Basadas en
 
 Productos adicionales surgen del diseño de Gyroscope. Por ejemplo, un intercambio decentralizado (DEX) altamente líquido que pueda soportar colapsos de activos digitales surgiría naturalmente del diseño de Gyroscope. Este diseño puede ser conceptualizado como una red de creadores de mercado automatizados de mercados secundarios, pools de reservas y pools externos que permitirán el enrutamiento eficiente de transacciones. Creadores de mercado automatizados de mercados secundarios (SAMMs) ofrecen rutas redundantes y altamente liquidas para la entrada y salida de monedas estables Gyroscope, mientras que el creador de mercado automatizado de mercados primarios (PAMM) sería el mercado de emisión y redención. Para más detalles por favor lea las descripciones del PAMM y SAMM.
 
-![El SAMM y pool de reserva de Gyroscope forman un DEX donde la liquidez es robusta ante colapsos del pool.](https://2063019688-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MU527HCtxlYaQoNazhF%2Fuploads%2F4pUejKivkcxjlbQiDbux%2FAMMs%20Graphic%20Rounded%20Edges.png?alt=media\&token=5316b320-5fbf-4dbf-9486-9ae990be5f91)
+![](<.gitbook/assets/SAMM and Reserve Pools Graphic.png>)

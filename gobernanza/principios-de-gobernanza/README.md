@@ -10,7 +10,7 @@ _Esta documentación describe los mecanismos diseñados de Gyroscope formulados 
 
 Gyroscope está diseñado para forjar un ciclo virtuoso entre sus diferentes usuarios: acreedores de Gyro Dollars, gobernadores y proveedores pasivos de liquidez (LPs).
 
-![](https://2063019688-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MU527HCtxlYaQoNazhF%2Fuploads%2FUD33Vk1G8c1FD1kGIK9k%2FGovernance%20Flow%20Chart%20v3.png?alt=media\&token=54aa930f-9725-4471-9dbf-e45e91d938f7)
+![](<../../.gitbook/assets/Governance Flow Chart (1).png>)
 
 Lee más para aprender cómo el diseño de Gyroscope fomenta este ciclo virtuoso.
 
